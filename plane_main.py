@@ -7,6 +7,7 @@ class PlaneGame(object):
     def __init__(self):
         print("游戏初始化")
 
+
         # 1. 创建游戏的窗口
         self.screen = pygame.dis#这个模块放一些常用的工具和基础类和精灵类
 #在其他模块调用
